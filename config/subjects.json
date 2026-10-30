@@ -1,0 +1,137 @@
+{
+  "A01": {
+    "candidate": "power_global",
+    "epochs": 132,
+    "validation_accuracy": 0.7708333532015482,
+    "config": {
+      "family": "power_global",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": false
+    }
+  },
+  "A02": {
+    "candidate": "power_global_csp",
+    "epochs": 126,
+    "validation_accuracy": 0.5381944626569748,
+    "config": {
+      "family": "power_global",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": true
+    }
+  },
+  "A03": {
+    "candidate": "power_local_csp",
+    "epochs": 107,
+    "validation_accuracy": 0.8576389253139496,
+    "config": {
+      "family": "power_local",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": true
+    }
+  },
+  "A04": {
+    "candidate": "power_local",
+    "epochs": 93,
+    "validation_accuracy": 0.5451389104127884,
+    "config": {
+      "family": "power_local",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": false
+    }
+  },
+  "A05": {
+    "candidate": "power_local",
+    "epochs": 127,
+    "validation_accuracy": 0.4062500099341075,
+    "config": {
+      "family": "power_local",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": false
+    }
+  },
+  "A06": {
+    "candidate": "power_global_csp",
+    "epochs": 91,
+    "validation_accuracy": 0.4375000099341075,
+    "config": {
+      "family": "power_global",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": true
+    }
+  },
+  "A07": {
+    "candidate": "power_global_csp",
+    "epochs": 115,
+    "validation_accuracy": 0.7378472487131754,
+    "config": {
+      "family": "power_global",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": true
+    }
+  },
+  "A08": {
+    "candidate": "power_local",
+    "epochs": 94,
+    "validation_accuracy": 0.8072916865348816,
+    "config": {
+      "family": "power_local",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": false
+    }
+  },
+  "A09": {
+    "candidate": "power_local_csp",
+    "epochs": 110,
+    "validation_accuracy": 0.7881944676240286,
+    "config": {
+      "family": "power_local",
+      "weight_decay": 0.001,
+      "spatial_max": 1.0,
+      "dense_max": 0.5,
+      "bn_eps": 0.001,
+      "bn_momentum": 0.1,
+      "xavier": false,
+      "csp_init": true
+    }
+  }
+}

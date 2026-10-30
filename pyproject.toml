@@ -1,0 +1,13 @@
+[project]
+name = "bci2a-powercnn-best"
+version = "1.0.0"
+requires-python = ">=3.12"
+
+[tool.ruff]
+line-length = 115
+extend-exclude = ["data", "outputs", "pretrained", "reference", "runtime"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "--basetemp=.pytest_tmp"

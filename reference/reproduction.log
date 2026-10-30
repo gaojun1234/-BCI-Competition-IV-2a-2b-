@@ -1,0 +1,99 @@
+All checks passed!
+8 files already formatted
+...                                                                      [100%]
+3 passed in 7.34s
+prepared A01T: 288 trials
+prepared A01E: 288 trials
+prepared A02T: 288 trials
+prepared A02E: 288 trials
+prepared A03T: 288 trials
+prepared A03E: 288 trials
+prepared A04T: 288 trials
+prepared A04E: 288 trials
+prepared A05T: 288 trials
+prepared A05E: 288 trials
+prepared A06T: 288 trials
+prepared A06E: 288 trials
+prepared A07T: 288 trials
+prepared A07E: 288 trials
+prepared A08T: 288 trials
+prepared A08E: 288 trials
+prepared A09T: 288 trials
+prepared A09E: 288 trials
+done A01_11 power_global epochs=132 parameters=3156 time=5.039s
+done A01_29 power_global epochs=132 parameters=3156 time=4.300s
+done A01_47 power_global epochs=132 parameters=3156 time=5.490s
+done A01_71 power_global epochs=132 parameters=3156 time=4.520s
+done A01_101 power_global epochs=132 parameters=3156 time=4.469s
+done A02_11 power_global_csp epochs=126 parameters=3156 time=4.335s
+done A02_29 power_global_csp epochs=126 parameters=3156 time=4.756s
+done A02_47 power_global_csp epochs=126 parameters=3156 time=5.391s
+done A02_71 power_global_csp epochs=126 parameters=3156 time=5.707s
+done A02_101 power_global_csp epochs=126 parameters=3156 time=4.979s
+done A03_11 power_local_csp epochs=107 parameters=3732 time=4.306s
+done A03_29 power_local_csp epochs=107 parameters=3732 time=4.293s
+done A03_47 power_local_csp epochs=107 parameters=3732 time=3.498s
+done A03_71 power_local_csp epochs=107 parameters=3732 time=3.385s
+done A03_101 power_local_csp epochs=107 parameters=3732 time=3.441s
+done A04_11 power_local epochs=93 parameters=3732 time=3.469s
+done A04_29 power_local epochs=93 parameters=3732 time=4.177s
+done A04_47 power_local epochs=93 parameters=3732 time=3.889s
+done A04_71 power_local epochs=93 parameters=3732 time=3.634s
+done A04_101 power_local epochs=93 parameters=3732 time=3.854s
+done A05_11 power_local epochs=127 parameters=3732 time=4.650s
+done A05_29 power_local epochs=127 parameters=3732 time=4.071s
+done A05_47 power_local epochs=127 parameters=3732 time=4.102s
+done A05_71 power_local epochs=127 parameters=3732 time=4.108s
+done A05_101 power_local epochs=127 parameters=3732 time=4.692s
+done A06_11 power_global_csp epochs=91 parameters=3156 time=3.251s
+done A06_29 power_global_csp epochs=91 parameters=3156 time=3.099s
+done A06_47 power_global_csp epochs=91 parameters=3156 time=2.980s
+done A06_71 power_global_csp epochs=91 parameters=3156 time=2.967s
+done A06_101 power_global_csp epochs=91 parameters=3156 time=2.947s
+done A07_11 power_global_csp epochs=115 parameters=3156 time=3.736s
+done A07_29 power_global_csp epochs=115 parameters=3156 time=3.680s
+done A07_47 power_global_csp epochs=115 parameters=3156 time=3.767s
+done A07_71 power_global_csp epochs=115 parameters=3156 time=3.695s
+done A07_101 power_global_csp epochs=115 parameters=3156 time=3.754s
+done A08_11 power_local epochs=94 parameters=3732 time=3.019s
+done A08_29 power_local epochs=94 parameters=3732 time=3.015s
+done A08_47 power_local epochs=94 parameters=3732 time=3.013s
+done A08_71 power_local epochs=94 parameters=3732 time=3.117s
+done A08_101 power_local epochs=94 parameters=3732 time=3.332s
+done A09_11 power_local_csp epochs=110 parameters=3732 time=4.406s
+done A09_29 power_local_csp epochs=110 parameters=3732 time=4.110s
+done A09_47 power_local_csp epochs=110 parameters=3732 time=4.132s
+done A09_71 power_local_csp epochs=110 parameters=3732 time=4.159s
+done A09_101 power_local_csp epochs=110 parameters=3732 time=4.219s
+subject  accuracy  seed_std    kappa  macro_f1  train_time
+    A01  0.759722  0.016904 0.679630  0.757128    4.763467
+    A02  0.402083  0.029504 0.202778  0.393984    5.033646
+    A03  0.853472  0.018763 0.804630  0.847584    3.784648
+    A04  0.600694  0.015135 0.467593  0.598115    3.804641
+    A05  0.379861  0.036384 0.173148  0.366577    4.324662
+    A06  0.457639  0.005705 0.276852  0.448289    3.048832
+    A07  0.729861  0.015798 0.639815  0.722874    3.726431
+    A08  0.779167  0.008362 0.705556  0.778211    3.099066
+    A09  0.724306  0.025111 0.632407  0.717763    4.205126
+{
+  "accuracy_mean": 0.6318672839506173,
+  "accuracy_subject_std": 0.1778114946204831,
+  "kappa_mean": 0.509156378600823,
+  "macro_f1_mean": 0.625613764422241,
+  "models": 45,
+  "subjects": 9,
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "frozen_sha256": "ab070a05b3249650c2f7207cde50844eab4d63b132dce413c0ff223d2805f2de",
+  "reference_accuracy": 0.6318672839506172,
+  "reference_prediction_file_available": true,
+  "reference_prediction_labels_matched": 12960,
+  "reference_prediction_labels_total": 12960,
+  "max_probability_difference": 0.0,
+  "prior_E_access_disclosed": true
+}

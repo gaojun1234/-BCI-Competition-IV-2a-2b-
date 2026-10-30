@@ -1,0 +1,22 @@
+{
+  "accuracy_mean": 0.6318672839506173,
+  "accuracy_subject_std": 0.1778114946204831,
+  "kappa_mean": 0.509156378600823,
+  "macro_f1_mean": 0.625613764422241,
+  "models": 45,
+  "subjects": 9,
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "frozen_sha256": "ab070a05b3249650c2f7207cde50844eab4d63b132dce413c0ff223d2805f2de",
+  "reference_accuracy": 0.6318672839506172,
+  "reference_prediction_file_available": true,
+  "reference_prediction_labels_matched": 12960,
+  "reference_prediction_labels_total": 12960,
+  "max_probability_difference": 0.0,
+  "prior_E_access_disclosed": true
+}

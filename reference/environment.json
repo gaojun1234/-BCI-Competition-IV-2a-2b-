@@ -1,0 +1,15 @@
+{
+  "python": "3.12.10 | packaged by conda-forge | (main, Apr 10 2025, 22:08:16) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch": "2.5.1+cu121",
+  "cuda": "12.1",
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "source_hash": "9cfc4f711ff5cf2fd05e31dc105e901c27c0a3e3b853cb1e70f8d3274528713b",
+  "environment_manager": "Conda bci2a"
+}

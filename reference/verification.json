@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "models": 45,
+  "seeds": [
+    11,
+    29,
+    47,
+    71,
+    101
+  ],
+  "unit_tests": 3,
+  "raw_sessions": 18,
+  "reproduced_accuracy": 0.6318672839506173,
+  "reference_predictions_matched": 12960,
+  "reference_predictions_total": 12960,
+  "model_source_independent_of_previous_projects": true,
+  "scope": "PowerCNN only"
+}

@@ -1,0 +1,92 @@
+{
+  "A01T.gdf": {
+    "sha256": "74d900ce83a115509f663c0ac45bd36d56f05be528064743c49b0c2efb5088a3",
+    "trials": 288,
+    "artifacts": 15
+  },
+  "A01E.gdf": {
+    "sha256": "08709cf61bc0d603b5d491417221cb4d62a5db09b99ec7bc1c09c22dbc44a674",
+    "trials": 288,
+    "artifacts": 7
+  },
+  "A02T.gdf": {
+    "sha256": "66c9eaf971198d08c95dc272fd310dc2a2f8fe470b7a4f29971a75552cdc2a56",
+    "trials": 288,
+    "artifacts": 18
+  },
+  "A02E.gdf": {
+    "sha256": "55b7cf934494134149881ee8b5ba38f1743fab7a493bcc0b9348c7a89327dc70",
+    "trials": 288,
+    "artifacts": 5
+  },
+  "A03T.gdf": {
+    "sha256": "b6327b61ad725062b538ac9bc4c4cbe792ff841a2b009b971ac151cb7a83f02d",
+    "trials": 288,
+    "artifacts": 18
+  },
+  "A03E.gdf": {
+    "sha256": "a8b69975e294354ab75bd576fece1e3c704def0554fab4d61d59affa62112d6d",
+    "trials": 288,
+    "artifacts": 15
+  },
+  "A04T.gdf": {
+    "sha256": "2ce34de240bbf3d25b0dc8b54ead5a9b1fea743b8184d60c2b6c57e1bf0c9409",
+    "trials": 288,
+    "artifacts": 26
+  },
+  "A04E.gdf": {
+    "sha256": "0031d6a4f332154ddbaa145a4eedc9d848dae010a042b4516453763321fd5211",
+    "trials": 288,
+    "artifacts": 60
+  },
+  "A05T.gdf": {
+    "sha256": "62558a31c342aa56fc93ae702a62fada9024b814a7adaab8069ca94027b2e917",
+    "trials": 288,
+    "artifacts": 26
+  },
+  "A05E.gdf": {
+    "sha256": "6e97ef729aaab233d3bb99adcb24f5d671e3842b5dd00613683bcab20a2b8af8",
+    "trials": 288,
+    "artifacts": 12
+  },
+  "A06T.gdf": {
+    "sha256": "ae709d09ac15c19d3c0af3c32de7f7101c0699dd72cdcacc4d7234e9a57d3169",
+    "trials": 288,
+    "artifacts": 69
+  },
+  "A06E.gdf": {
+    "sha256": "52231eca463f01ddd2216c4274c00181dcb80c3971f929cb3f49cbf437903fba",
+    "trials": 288,
+    "artifacts": 73
+  },
+  "A07T.gdf": {
+    "sha256": "331dae51fb07685b06526ee04994fb41230177d357c95e9d7cfa5977191a8155",
+    "trials": 288,
+    "artifacts": 17
+  },
+  "A07E.gdf": {
+    "sha256": "1752467825a375177c6305177bf927e39996391a056fdd3c0de1918dc6bb66ca",
+    "trials": 288,
+    "artifacts": 11
+  },
+  "A08T.gdf": {
+    "sha256": "0aa60752dcf02d7a88a0fdaf7082b68b57bc7a2e16698c89174aadce45d627d8",
+    "trials": 288,
+    "artifacts": 24
+  },
+  "A08E.gdf": {
+    "sha256": "fa1e651cdf63e03fbb5550bc2bb93ce84df60f0fbae5eb17ee0e75319e00fbce",
+    "trials": 288,
+    "artifacts": 17
+  },
+  "A09T.gdf": {
+    "sha256": "3e585fd3a4f10ded77003492529433abe6d172e80316cb068997ff4b498c3bc4",
+    "trials": 288,
+    "artifacts": 51
+  },
+  "A09E.gdf": {
+    "sha256": "a7a01e3ddfcbd605bdcceea71a7e64632e3f97ded666e423349d04b16862f319",
+    "trials": 288,
+    "artifacts": 24
+  }
+}
